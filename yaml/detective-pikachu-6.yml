@@ -1,0 +1,89 @@
+---
+id: det1-6
+name: Arcanine
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '120'
+types:
+- Fire
+evolvesFrom: Growlithe
+abilities:
+- name: Security Guard
+  text: As long as this Pokémon is your Active Pokémon, all of your Pokémon take 30
+    less damage from your opponent's attacks (after applying Weakness and Resistance).
+  type: Ability
+attacks:
+- name: Sharp Fang
+  cost:
+  - Fire
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '90'
+  text: ''
+weaknesses:
+- type: Water
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 3
+set:
+  id: det1
+  name: Detective Pikachu
+  series: Sun & Moon
+  printedTotal: 18
+  total: 18
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: DET
+  releaseDate: 2019/04/05
+  updatedAt: 2021/09/01 05:37:00
+  images:
+    symbol: https://images.pokemontcg.io/det1/symbol.png
+    logo: https://images.pokemontcg.io/det1/logo.png
+number: '6'
+artist: MPC Film
+rarity: Rare
+flavorText: Legends tell of its fighting alongside a general and conquering a whole
+  country.
+nationalPokedexNumbers:
+- 59
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/det1/6.png
+  large: https://images.pokemontcg.io/det1/6_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/det1-6
+  updatedAt: 2023/09/15
+  prices:
+    holofoil:
+      low: 0.7
+      mid: 1.34
+      high: 12.14
+      market: 1.08
+      directLow: 1.49
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/det1-6
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 3.45
+    lowPrice: 0.8
+    trendPrice: 3.34
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 1.5
+    reverseHoloLow: 0.99
+    reverseHoloTrend: 4.93
+    lowPriceExPlus: 0.99
+    avg1: 3.85
+    avg7: 3.51
+    avg30: 3.22
+    reverseHoloAvg1: 1.5
+    reverseHoloAvg7: 4.86
+    reverseHoloAvg30: 3.3
